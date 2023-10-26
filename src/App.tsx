@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      
+      <span>learn react</span>
     </>
   )
 }
